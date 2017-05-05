@@ -1,0 +1,11 @@
+# Directories
+##############
+/*ham
+/spam
+/training
+
+
+# Files
+*.pdf
+*.py
+test*
